@@ -1,5 +1,6 @@
-* text=auto
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
-CHANGELOG.md export-ignore
+* text=Laravel
+*.html linguist-vendored=Laravel
+*.htm linguist-vendored=Laravel
+*.css linguist-vendored=Laravel
+*.scss linguist-vendored=Laravel
+*.js linguist-vendored=Laravel
