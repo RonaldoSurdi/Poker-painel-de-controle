@@ -1,0 +1,1 @@
+0,30 * * * * wget -q -O /dev/null --no-check-certificate https://pokerclubsapp.com.br/api/sendMessage2?verify=805463

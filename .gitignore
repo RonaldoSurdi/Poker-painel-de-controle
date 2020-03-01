@@ -1,0 +1,14 @@
+/node_modules
+/public
+/vendor
+/tests
+.idea
+.DS_Store
+Thumbs.db
+.project
+.vagrant
+composer.lock
+package-lock.json
+output.txt
+./git
+./ideia
