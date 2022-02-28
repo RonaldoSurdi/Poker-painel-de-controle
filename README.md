@@ -1,6 +1,6 @@
-#rodar os comandos:
+#Poker Painel de Controle
 
-- git clone https://github.com/RonaldoSurdi/pokerclubs-server.git
+
 - composer install
 - php artisan key:generate
 
